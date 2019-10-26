@@ -1,0 +1,15 @@
+# 配置类，指定了 eureka server 的地址，以及自己的名称。 另外是一些 thymeleaf 的默认配置。
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+spring:
+  application:
+    name: product-view-service-ribbon
+  thymeleaf:
+    cache: false
+    prefix: classpath:/templates/
+    suffix: .html
+    encoding: UTF-8
+    content-type: text/html
+    mode: HTML5
