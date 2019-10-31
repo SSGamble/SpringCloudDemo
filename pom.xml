@@ -12,6 +12,8 @@
         <module>productviewservicefeign</module>
         <module>configserver</module>
         <module>hystrixdashboard</module>
+        <module>turbine</module>
+        <module>zuul</module>
     </modules>
     <name>springcloud</name>
     <description>springcloud</description>

@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/productdataservice/productdataservice.iml" filepath="$PROJECT_DIR$/productdataservice/productdataservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/productviewservicefeign/productviewservicefeign.iml" filepath="$PROJECT_DIR$/productviewservicefeign/productviewservicefeign.iml" />
       <module fileurl="file://$PROJECT_DIR$/productviewserviceribbon/productviewserviceribbon.iml" filepath="$PROJECT_DIR$/productviewserviceribbon/productviewserviceribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine/turbine.iml" filepath="$PROJECT_DIR$/turbine/turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
     </modules>
   </component>
 </project>

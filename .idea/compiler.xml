@@ -12,6 +12,8 @@
         <module name="productdataservice" />
         <module name="productviewservicefeign" />
         <module name="productviewserviceribbon" />
+        <module name="turbine" />
+        <module name="zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -22,6 +24,8 @@
       <module name="productviewservicefeign" target="1.8" />
       <module name="productviewserviceribbon" target="1.8" />
       <module name="SpringCloud" target="1.8" />
+      <module name="turbine" target="1.7" />
+      <module name="zuul" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
